@@ -1,4 +1,4 @@
-// Kullanıcıdan alınan 4 basamaklı bir sayının herbir basamağında bulunan sayıların sayı değerlerini bulan ve return eden bir fonksiyon oluşturunuz.
+// ! Kullanıcıdan alınan 4 basamaklı bir sayının herbir basamağında bulunan sayıların sayı değerlerini bulan ve return eden bir fonksiyon oluşturunuz.
 
 // Örnek: Girilen sayı 1234 ise Binler B.=1,Yüzler B.=2,Onlar B.=3, Yüzler B.=4 'tür şeklinde.
 

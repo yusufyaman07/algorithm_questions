@@ -3,7 +3,7 @@
 nCr = n! / (r! * (n-r)!)
 */
 
-// Girilen iki sayının kombinasyonunu hesaplayan bir fonksiyon oluşturunuz.
+// ! Girilen iki sayının kombinasyonunu hesaplayan bir fonksiyon oluşturunuz.
 
 function kombinasyon(n, k) {
   if (k === 0 || k === n) {

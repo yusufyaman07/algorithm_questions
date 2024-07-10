@@ -5,7 +5,7 @@ nCr = n! / (r! * (n-r)!)
 
 */
 
-// Create a function that calculates the combination of two entered numbers.
+// ! Create a function that calculates the combination of two entered numbers.
 
 function combination(n, k) {
   if (k === 0 || k === n) {

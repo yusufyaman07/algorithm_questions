@@ -1,4 +1,4 @@
-// Create a function that takes a 4-digit number input from the user, finds the numerical values of each digit in its place, and returns them.
+// ! Create a function that takes a 4-digit number input from the user, finds the numerical values of each digit in its place, and returns them.
 
 // Example: For the input number 1234, it should return "Thousands Digit=1, Hundreds Digit=2, Tens Digit=3, Units Digit=4".
 
