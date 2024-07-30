@@ -24,5 +24,5 @@ function checkGoldbach(number) {
     }
   }
 
-  return `${number} sayısı iki asal sayının toplamı olarak yazılamaz.`;
+  return `${number} sayısı iki asal sayının toplamı olarak yazılamaz. `;
 }

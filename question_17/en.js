@@ -24,5 +24,5 @@ function checkGoldbach(number) {
     }
   }
 
-  return `The number ${number} cannot be written as the sum of two prime numbers.`;
+  return `The number ${number} cannot be written as the sum of two prime numbers. `;
 }
